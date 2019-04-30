@@ -15,5 +15,11 @@ public class CurrencyConversionServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CurrencyConversionServiceApplication.class, args);
 		Sysout.
+		1
+		2
+		3
+		3
+		4
+		4
 	}
 }
